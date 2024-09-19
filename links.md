@@ -19,3 +19,11 @@ permalink: LINKS/
 | [How to use chmod \| Manage File Permissions in Linux](https://youtu.be/ngJG6Ix5FR4?feature=shared) | Video | **`chmod`** (singkatan dari "_change mode_") adalah perintah untuk mengubah izin pada berkas atau direktori. Video diatas menjelaskan penggunaan `chmod` untuk menentukan siapa yang dapat membaca (_read_), menulis (_write_), dan mengeksekusi (_execute_) berkas atau direktori tersebut. |
 | [What Is Cyber Security: How It Works?](https://youtu.be/inWWhr5tnEA?feature=shared) | Video | Menjelaskan apa itu _Cyber Security_ dan bagaimana caranya bekerja (menjelaskan beberapa tipe serangan seperti _malware attack_, _man-in-the-middle attack_, dan lain-lain). |
 | [Symmetric and Asymmetric Cryptography](https://youtu.be/6uRI4o5EUkI?feature=shared) | Video | Menjelaskan apa itu kriptografi secara simetri dan asimetri. |
+
+## WEEK-03 (File System & FUSE)
+
+| Topik | Tipe | Penjelasan |
+|:---:|:--:|--|
+| [Introduction to Makefiles](https://www.youtube.com/watch?v=_r7i5X0rXJk&ab_channel=PaulProgramming) | Video | Cara membuat `Makefile` sederhana. |
+| [Memory Management in OS](https://www.geeksforgeeks.org/memory-management-in-operating-system/) | Artikel | Menjelaskan apa itu _Main Memory_, _Memory Management_, _Memory Allocation_, dan lain-lain |
+| [What's a Disk Partition?](https://www.youtube.com/watch?v=udDkSdKLFGk&ab_channel=AskLeo!) | Video | Menjelaskan apa itu _Partition_, apa perbedaannya dengan _volume_, _dividing_ dan _backing up_ _partition_. |
