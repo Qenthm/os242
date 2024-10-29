@@ -41,3 +41,11 @@ permalink: LINKS/
 | [Thrashing](https://www.geeksforgeeks.org/techniques-to-handle-thrashing/) | Artikel | Penjelasan mengenai *thrashing* |
 | [Page Replacement Algorithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/) | Artikel | Penjelasan mengenai *page replacement* |
 | [Difference between Uniform Memory Access (UMA) and Non-uniform Memory Access (NUMA)](https://www.geeksforgeeks.org/difference-between-uniform-memory-access-uma-and-non-uniform-memory-access-numa/) | Artikel | Penjelasan mengenai perbedaan antara UMA dan NUMA |
+
+## WEEK-06 (Concurrency: Processes & Threads)
+| Topik | Tipe | Penjelasan |
+|:--:|:--:|--|
+| [State of a Process](https://www.geeksforgeeks.org/states-of-a-process-in-operating-systems/) | Artikel | Penjelasan mengenai *state process* |
+| [Multi Threading Models](https://www.geeksforgeeks.org/multi-threading-models-in-process-management/) | Artikel | Penjelasan mengenai *multi threading models* |
+| [`fork()` dan `exec()`](https://youtu.be/IFEFVXvjiHY?feature=shared) | Artikel | Penjelasan mengenai `fork()` dan `exec()` dalam *system call* |
+| [Amdahl's Law](https://youtu.be/QutASUpGzbc?feature=shared) | Artikel | Penjelasan mengenai Amdahl's Law pada *concurrency* |
